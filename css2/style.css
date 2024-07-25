@@ -1,0 +1,110 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    
+}
+
+li,h1,ul{
+    display: inline;
+   
+}
+
+ul{
+  margin-left: 60%;
+  color: tan;
+  cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+
+
+
+input{
+    margin-left: 45%;
+    margin: 20px;
+    padding: 15px;
+    width: 500px;
+ 
+}
+
+.search{
+text-align: center;
+}
+
+.box1{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 185px;
+    display: inline-block ;
+    cursor: pointer;
+
+}
+
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 300px;
+    display: inline-block ;
+    cursor: pointer;
+
+}
+.box3{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 300px;
+    display: inline-block ;
+    cursor: pointer;
+
+}
+.img{
+    text-align: center;
+}
+.box1:hover{
+background-color: black;
+color: white;
+}
+
+.box3:hover{
+    background-color: black;
+    color: white;
+    }
+    .box2:hover{
+        background-color: black;
+        color: white;
+        }
+
+
+    .about{
+        margin-top:  40px;
+       
+        text-align: center;
+    }
+    p{
+        margin: 40px;
+        margin-bottom: 80px;
+    }
+
+    .address{
+        background-color: black;
+        color: white;
+        text-align: center;
+    }
+     h3{
+        cursor: pointer;
+     }
+     h3:hover{
+        color: aqua;
+        background-color: black;
+     }
